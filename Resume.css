@@ -1,0 +1,40 @@
+.content{
+    width: 700px;
+    margin: 0 auto;
+    background-color: white;
+}
+hr{
+    border: none;
+    background-color: grey;
+    color: grey;
+    height: 2px;
+    margin-top: 0px;
+}
+
+#line2 {
+    border: none;
+    background-color: grey;
+    color: grey;
+    height: 1px;
+}
+
+h1 {
+    line-height: 10px;
+}
+
+h2 {
+    line-height: 20px;
+    margin-bottom: 0px;
+}
+
+h3 {
+    color: grey;
+    margin-bottom: 0px;
+}
+
+.date {
+    color: grey;
+}
+ .cash {
+     line-height: 0px;
+ }
